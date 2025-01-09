@@ -1,7 +1,10 @@
 # put in ip numbers
-13.107.6.152/31
-13.107.18.10/31
+#13.107.6.152/31
+#13.107.18.10/31
 
 # or put in urls
-outlook.cloud.microsoft
-outlook.office.com
+#outlook.cloud.microsoft
+#outlook.office.com
+
+13.107.42.14
+2620:1ec:21::14
